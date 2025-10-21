@@ -24,16 +24,19 @@ El proyecto fue desarrollado con fines de aprendizaje, explorando buenas prácti
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
 cd tu_repositorio
+```
 
 2. **Instala las dependencias:**
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Comando para ejecutar las pruebas
 
 ```bash
 python -m pytest -v
+```
 
 ## Autora
 
